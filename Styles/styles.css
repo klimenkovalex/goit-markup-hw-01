@@ -11,6 +11,7 @@
 .educetion {
   width: 1600px;
   border-color: #000000;
+  outline: #2196f3;
 }
 
 .main_educetion {
@@ -140,12 +141,6 @@
 .button_active {
 }
 
-.button_text {
-  font-weight: 500;
-  font-size: 16px;
-  line-height: calc(26 / 16);
-  color: #ffffff;
-}
 
 .button_text_list {
   font-weight: 500;
